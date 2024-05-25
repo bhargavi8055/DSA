@@ -41,5 +41,12 @@ Sample Output 2 :
             }
             System.out.print("\n");
         }
+      // another approach (starting loop variable value from 1) and there are many approaches
+      // for(int i=1;i<=n;i++){
+      //       for(int j=1;j<=i;j++){
+      //           System.out.print((j+1)+" ");
+      //       }
+      //       System.out.print("\n");
+      //   }
     }
 }
